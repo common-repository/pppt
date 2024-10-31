@@ -1,0 +1,56 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .pppt-popin {
+	display: none;
+}
+.thickbox.pppt-thickbox-launcher {
+	display: none;
+}
+
+.plugins-php #TB_ajaxContent {
+	width: 96% !important;
+	height: 86% !important;
+}
+
+.plugins-php #TB_ajaxContent .buttons {
+	clear: both;
+	margin: 1em auto;
+}
+
+.plugins-php #TB_ajaxContent .buttons .button.delete {
+	background: red;
+	color: #FFF;
+	border-color: red;
+	box-shadow: 0 1px 0 red;
+}
+
+.plugins-php #TB_ajaxContent ul.archives .actions {
+	float: right;	
+}
+
+.plugins-php #TB_ajaxContent ul.archives .actions a.delete {
+	color: red;
+}
+
+.plugins-php #TB_ajaxContent ul.archives .title {
+	margin-bottom: 0.5em;
+	font-size: 1.2em;
+	font-weight: bold;
+	width: 80%;
+}
+
+.plugins-php #TB_ajaxContent ul.archives .description {
+	clear: both;
+	margin-bottom: 0.5em;	
+}
+
+.plugins-php #TB_ajaxContent ul.archives .author {
+}
+
+.plugins-php #TB_ajaxContent ul.archives li {
+	border-bottom: 1px solid #DDD;
+	margin-bottom: 1em;	
+	padding-bottom: 1em;
+}

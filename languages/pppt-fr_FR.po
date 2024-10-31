@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PPPT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-07 18:13+0000\n"
+"PO-Revision-Date: 2019-05-07 18:13+0000\n"
+"Last-Translator: xuxu <xuxu.fr@gmail.com>\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: admin/class-pppt-admin.php:127
+msgid "Please select at least one plugin."
+msgstr "Veuillez sélectionner au moins une extension."
+
+#: admin/class-pppt-admin.php:128
+msgid "Loading..."
+msgstr "Chargement en cours ..."
+
+#: admin/class-pppt-admin.php:152
+msgid "Launch Thickbox"
+msgstr "Lancer Thickbox"
+
+#: admin/class-pppt-admin.php:168 admin/class-pppt-admin.php:187
+msgid "Archive"
+msgstr "Archiver"
+
+#: admin/class-pppt-admin.php:252
+#, php-format
+msgid ""
+"You have <strong>%s</strong> plugin%s archived. <a href=\"javascript:"
+"pppt_show_archives();\">Click here</a> to manage them."
+msgstr ""
+"Vous avez %s extension%s dans vos archives. <a href=\"javascript:"
+"pppt_show_archives();\">Cliquez-ici</a> pour gérer ces dernières."
+
+#: admin/class-pppt-admin.php:281
+msgid "You do not have plugins archived yet."
+msgstr "Vous n'avez pas d'extensions archivées actuellement."
+
+#: admin/class-pppt-admin.php:289 admin/class-pppt-admin.php:316
+msgid "check / uncheck all"
+msgstr "cocher / décocher tout"
+
+#: admin/class-pppt-admin.php:290 admin/class-pppt-admin.php:317
+msgid "restore"
+msgstr "restaurer"
+
+#: admin/class-pppt-admin.php:291 admin/class-pppt-admin.php:318
+msgid "delete"
+msgstr "supprimer"
+
+#: admin/class-pppt-admin.php:303
+msgid "Restore"
+msgstr "Restaurer"
+
+#: admin/class-pppt-admin.php:305
+msgid "Delete"
+msgstr "Supprimer"
+
+#: admin/class-pppt-admin.php:310
+msgid "Version"
+msgstr "Version"
+
+#: admin/class-pppt-admin.php:310
+msgid "Plugin site"
+msgstr "Site de l'extension"
+
+#: admin/class-pppt-admin.php:400
+msgid "Sorry, the archive destination path is not writable."
+msgstr ""
+"Désolé, le dossier de destination pour les archives n'est pas en écriture."
+
+#: admin/class-pppt-admin.php:407
+msgid "The archive destination path was created with success."
+msgstr "Le dossier de destination des archives a bien été créé."
+
+#: admin/class-pppt-admin.php:440
+#, php-format
+msgid ""
+"Sorry, the archive destination path for <strong>%s</strong> is not writable."
+msgstr ""
+"Désolé, le dossier de destination des archives <strong>%s</strong> n'est pas "
+"en écriture."
+
+#: admin/class-pppt-admin.php:458
+#, php-format
+msgid "Plugin <strong>%s</strong> has been <strong>archived</strong>."
+msgstr "L'extension <strong>%s</strong> a été <strong>archivée</strong>."
+
+#: admin/class-pppt-admin.php:524
+msgid "You are not allowed to make this."
+msgstr "Vous n'êtes pas autorisé à faire cela."
+
+#: admin/class-pppt-admin.php:541
+#, php-format
+msgid ""
+"Sorry, the plugin destination path for <strong>%s</strong> is not writable."
+msgstr ""
+"Désolé, le dossier de destination de l'extension <strong>%s</strong> n'est "
+"pas en écriture."
+
+#: admin/class-pppt-admin.php:551
+#, php-format
+msgid "Plugin <strong>%s</strong> has been <strong>restored</strong>."
+msgstr "L'extension <strong>%s</strong> a bien été <strong>restaurée</strong>."
+
+#: admin/class-pppt-admin.php:566
+#, php-format
+msgid "Plugin <strong>%s</strong> has been <strong>deleted</strong>."
+msgstr "L'extension <strong>%s</strong> a bien été <strong>supprimée</strong>."
+
+#: admin/class-pppt-admin.php:601
+msgid "Zip extension not loaded in PHP."
+msgstr "L'extension ZIP n'est pas chargée."
+
+#: admin/class-pppt-admin.php:606
+#, php-format
+msgid "Plugin directory source <strong>%s</strong> does not exist."
+msgstr "Le dossier source de l'extension <strong>%s</strong> n'existe pas."
+
+#: admin/class-pppt-admin.php:612
+#, php-format
+msgid "Destination directory <strong>%s</strong> does not exist."
+msgstr "Le dossier de destination <strong>%s</strong> n'existe pas."
+
+#: admin/class-pppt-admin.php:618
+#, php-format
+msgid "Failed to create zip file on destination : <strong>%s</strong>."
+msgstr "Erreur lors de la création du fichier zip : <strong>%s</strong>."
+
+#. Name of the plugin
+msgid "PPPT"
+msgstr "PPPT"
+
+#. Description of the plugin
+msgid ""
+"Archive plugins you don't need anymore, and get it back when you want it."
+msgstr ""
+"Archiver les extensions dont vous n'avez plus besoin, et récupérer les plus "
+"tard quand vous le voudrez."
+
+#. Author of the plugin
+msgid "Xuan NGUYEN"
+msgstr "Xuan NGUYEN"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://xuxu.fr"
+msgstr "https://xuxu.fr"
